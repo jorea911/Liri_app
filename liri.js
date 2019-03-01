@@ -6,18 +6,35 @@ var request = require('request');
 
 
 
+
 var liriCommand = process.argv[2];
-var input = process.argv[3];
+var input = process.argv.slice(3).join(" ");
+
 function liri (liriCommand, input) { 
     switch (liriCommand) { 
         case "spotify-this-song":
         getSong(input);
         break;
 
-        case "get-movie":
+        case "movie-this":
         getMovie(input);
         break;
 
+        case "do-what-it-says":
+        getRandom(input);
+        break;
+
+}
+
+function getRandom() {
+    fs.readFile("random.txt", "utf8", function (error, data) {
+        if(error) {
+            return console.log(error);
+        }
+        var dataArray = data.split(",");
+        liri(dataArray[0], dataArray[1]);
+
+    })
 }
 
 }
@@ -30,7 +47,6 @@ function getSong(songName){
      if (!songName) {
     songName = "The Sign";
     };        
-    console.log(songName);
 
      //Callback to spotify to search for song name
      spotify.search({ type: 'track', query: songName}, function(err, data) {
@@ -69,7 +85,7 @@ function getMovie(movieName) {
         // If the request is successful
         if (!error && response.statusCode === 200) {
             var movieObject = JSON.parse(body);
-             console.log(movieObject); // Show the text in the terminal
+             //console.log(movieObject); // Show the text in the terminal
 
              var movieResults = 
              "------------------------------ begin ------------------------------" + "\r\n" +

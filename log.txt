@@ -20,4 +20,116 @@ Language: English
 Plot: Secret Service agent Frank Horrigan couldn't save Kennedy, but he's determined not to let a clever assassin take out this president.
 Actors: Clint Eastwood, John Malkovich, Rene Russo, Dylan McDermott
 ------------------------------ end ------------------------------
+[object Object]Artist: Lil Baby
+Song name: Never Recover (Lil Baby & Gunna, Drake)
+Album Name: Drip Harder
+Preview Link: null
+[object Object]Artist: Rick Astley
+Song name: Never Gonna Give You Up
+Album Name: Whenever You Need Somebody
+Preview Link: https://p.scdn.co/mp3-preview/22bf10aff02db272f0a053dff5c0063d729df988?cid=1e0f728c25b347999539bd3b65a96d9b
+[object Object][object Object]Artist: Rick Astley
+Song name: Never Gonna Give You Up
+Album Name: Whenever You Need Somebody
+Preview Link: https://p.scdn.co/mp3-preview/22bf10aff02db272f0a053dff5c0063d729df988?cid=1e0f728c25b347999539bd3b65a96d9b
+Artist: Rick Astley
+Song name: Never Gonna Give You Up
+Album Name: Whenever You Need Somebody
+Preview Link: https://p.scdn.co/mp3-preview/22bf10aff02db272f0a053dff5c0063d729df988?cid=1e0f728c25b347999539bd3b65a96d9b
+[object Object]Artist: Harry Styles
+Song name: Sign of the Times
+Album Name: Harry Styles
+Preview Link: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=1e0f728c25b347999539bd3b65a96d9b
+[object Object]Artist: Harry Styles
+Song name: Sign of the Times
+Album Name: Harry Styles
+Preview Link: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=1e0f728c25b347999539bd3b65a96d9b
+[object Object]Artist: Foo Fighters
+Song name: Monkey Wrench
+Album Name: The Colour And The Shape (Expanded Edition)
+Preview Link: https://p.scdn.co/mp3-preview/7f98be705f7db05e0c3e291d80bb158124983232?cid=1e0f728c25b347999539bd3b65a96d9b
+[object Object]------------------------------ begin ------------------------------
+Title: Once Upon a Time in Mexico
+Year: 2003
+Imdb Rating: 6.4
+Rotten Tomatoes Rating: N/A
+Country: USA
+Language: English, Spanish
+Plot: Hitman "El Mariachi" becomes involved in international espionage involving a psychotic CIA agent and a corrupt Mexican general.
+Actors: Antonio Banderas, Salma Hayek, Johnny Depp, Mickey Rourke
+------------------------------ end ------------------------------
+[object Object]------------------------------ begin ------------------------------
+Title: Mr. Nobody
+Year: 2009
+Imdb Rating: 7.8
+Rotten Tomatoes Rating: N/A
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+------------------------------ end ------------------------------
+[object Object]------------------------------ begin ------------------------------
+Title: Mr. Nobody
+Year: 2009
+Imdb Rating: 7.8
+Rotten Tomatoes Rating: N/A
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+------------------------------ end ------------------------------
+[object Object]Artist: Backstreet Boys
+Song name: I Want It That Way
+Album Name: The Hits--Chapter One
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=1e0f728c25b347999539bd3b65a96d9b
+[object Object]Artist: Backstreet Boys
+Song name: I Want It That Way
+Album Name: The Hits--Chapter One
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=1e0f728c25b347999539bd3b65a96d9b
+[object Object]------------------------------ begin ------------------------------
+Title: Point Break
+Year: 1991
+Imdb Rating: 7.2
+Rotten Tomatoes Rating: N/A
+Country: Japan, USA
+Language: English
+Plot: An F.B.I. Agent goes undercover to catch a gang of surfers who may be bank robbers.
+Actors: Patrick Swayze, Keanu Reeves, Gary Busey, Lori Petty
+------------------------------ end ------------------------------
+[object Object]Artist: The Rolling Stones
+Song name: Gimme Shelter
+Album Name: Let It Bleed
+Preview Link: null
+[object Object][object Object]Artist: The Rolling Stones
+Song name: Gimme Shelter
+Album Name: Let It Bleed
+Preview Link: null
+Artist: Harry Styles
+Song name: Sign of the Times
+Album Name: Harry Styles
+Preview Link: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=1e0f728c25b347999539bd3b65a96d9b
+[object Object]------------------------------ begin ------------------------------
+Title: Point Break
+Year: 1991
+Imdb Rating: 7.2
+Rotten Tomatoes Rating: N/A
+Country: Japan, USA
+Language: English
+Plot: An F.B.I. Agent goes undercover to catch a gang of surfers who may be bank robbers.
+Actors: Patrick Swayze, Keanu Reeves, Gary Busey, Lori Petty
+------------------------------ end ------------------------------
+[object Object]------------------------------ begin ------------------------------
+Title: Mr. Nobody
+Year: 2009
+Imdb Rating: 7.8
+Rotten Tomatoes Rating: N/A
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+------------------------------ end ------------------------------
+[object Object]Artist: Backstreet Boys
+Song name: I Want It That Way
+Album Name: The Hits--Chapter One
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=1e0f728c25b347999539bd3b65a96d9b
 [object Object]
